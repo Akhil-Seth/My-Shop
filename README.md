@@ -28,9 +28,6 @@ The application serves as a foundation for a web-based shop, providing functiona
 - Security features with Helmet
 - Compression for optimizing response size
 
-## Installation
+## Compilation 
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-project.git
+To run the app , do use a proper mongodb cluster url or use a local cluster (compass)
