@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "NAME" : "Akhil",
+        "PASSWORD" : "AkhilAkhilAkhil" ,
+        "MODEL" : "shop",
+        "PORT" : "4000"
+    }
+}
